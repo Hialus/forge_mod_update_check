@@ -1,10 +1,10 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/nekeys",
   "1.12.2": {
-    "1.0.0": "First release"
+    "0.1.0": "First release"
   },
   "promos": {
-    "1.12.2-latest": "1.0.0",
-    "1.12.2-recommended": "1.0.0"
+    "1.12.2-latest": "0.1.0",
+    "1.12.2-recommended": "0.1.0"
   }
 }
